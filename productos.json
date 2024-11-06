@@ -1,0 +1,46 @@
+{
+  "productos": [
+    {
+        "nombre": "Resistencias 300 ohms X10",
+        "precio": 1000,
+        "categoria": "components",
+        "rating": 4,
+        "imagen": "assets/61mQyOXpDcL.jpg"
+    },
+    {
+        "nombre": "Capacitor electrolítico de 47uF 35V",
+        "precio": 300,
+        "categoria": "components",
+        "rating": 4.5,
+        "imagen": "assets/capacitor.jpg"
+    },
+    {
+        "nombre": "2n3904 Transistor NPN",
+        "precio": 400,
+        "categoria": "components",
+        "rating": 4.8,
+        "imagen": "assets/transistor-npn-2n3904.jpg"
+    },
+    {
+        "nombre": "Arduino Uno R3",
+        "precio": 60000,
+        "categoria": "ard",
+        "rating": 5,
+        "imagen": "assets/Arduino.jpg"
+    },
+    {
+        "nombre": "Duo Transmisor - Receptor RF",
+        "precio": 8000,
+        "categoria": "rf",
+        "rating": 4,
+        "imagen": "assets/transistor-npn-2n3904.jpg"
+    },
+    {
+        "nombre": "Fuente de alimentación para protoboard 5v",
+        "precio": 50000,
+        "categoria": "powers",
+        "rating": 4,
+        "imagen": "assets/fuente.webp"
+    }
+]
+}
